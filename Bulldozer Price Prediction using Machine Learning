@@ -1,0 +1,18 @@
+# Bulldozer Price Prediction using Machine Learning
+
+This project predicts the **sale price of used bulldozers at auction** using machine learning. 
+It follows Daniel Bourke’s **end-to-end Bluebook Bulldozer Price Regression workflow**.
+
+## Project Overview
+- Predict bulldozer auction prices.
+- Uses **RandomForestRegressor** from scikit-learn.
+- Follows the 6-step ML workflow: Problem → Data → Evaluation → Features → Modeling → Deployment.
+
+## Dataset
+- Kaggle: [Bluebook for Bulldozers](https://www.kaggle.com/competitions/bluebook-for-bulldozers)
+- Place downloaded files in a `data/` folder.
+
+## How to Run
+1. Install required libraries:
+```bash
+pip install pandas numpy scikit-learn matplotlib jupyter
