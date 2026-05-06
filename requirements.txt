@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-tensorflow
-tensorflow-datasets
-numpy
-requests
-python-multipart
-pillow
